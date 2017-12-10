@@ -1,6 +1,6 @@
 
 def using_for
-	checklist = 1..10
+	checklist = 0..10
 	for item in checklist
 		puts "Wingardium Leviosa"
 end
